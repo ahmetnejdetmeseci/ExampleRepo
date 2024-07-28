@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{9B6000DE-6A82-47EB-8233-CD9D3549EE57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{F528F51E-575A-4F2F-B6D6-A352D3A3E993}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{D845C02A-FE78-48B2-BE4E-38D28D4486EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B6000DE-6A82-47EB-8233-CD9D3549EE57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6000DE-6A82-47EB-8233-CD9D3549EE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B6000DE-6A82-47EB-8233-CD9D3549EE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B6000DE-6A82-47EB-8233-CD9D3549EE57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F528F51E-575A-4F2F-B6D6-A352D3A3E993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F528F51E-575A-4F2F-B6D6-A352D3A3E993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F528F51E-575A-4F2F-B6D6-A352D3A3E993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F528F51E-575A-4F2F-B6D6-A352D3A3E993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D845C02A-FE78-48B2-BE4E-38D28D4486EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D845C02A-FE78-48B2-BE4E-38D28D4486EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D845C02A-FE78-48B2-BE4E-38D28D4486EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D845C02A-FE78-48B2-BE4E-38D28D4486EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B97CEB8E-7FAA-4EC6-A973-69745D149EA9}
+	EndGlobalSection
+EndGlobal
